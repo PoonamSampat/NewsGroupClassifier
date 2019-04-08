@@ -21,6 +21,6 @@ Steps Involved:
     
     Used Scikit Learn's , Multiomial Naive Bayes to perform the classification.
     
-    Got a decent accuracy of 78%.
+    Got a decent accuracy of 84%.
     
     Published the recall, precision for each category
